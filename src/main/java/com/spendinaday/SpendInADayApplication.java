@@ -1,0 +1,13 @@
+package com.spendinaday;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpendInADayApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpendInADayApplication.class, args);
+	}
+
+}
